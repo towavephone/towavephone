@@ -1,11 +1,17 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=towavephone&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+Hi, I'm towavephone, a frontEnd web developer from China.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=towavephone&langs_count=10&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+- 🌱 I’m currently learning Node.js
+- 📫 My technology blog is [here](https://blog.towavephone.com/)
+- 📫 My life blog is [here](https://www.towavephone.com/)
+- 💬 Ask me about anything [here](https://github.com/towavephone/towavephone/issues)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=towavephone&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=towavephone&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**zxdong262/zxdong262** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
