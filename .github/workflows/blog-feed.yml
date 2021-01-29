@@ -12,6 +12,7 @@ jobs:
       changed: ${{ steps.feed.outputs.changed }}
       items: ${{ steps.feed.outputs.items }}
     steps:
+      - uses: sarisia/setup-icu@v1
       - uses: actions/checkout@v2
       - name: tech blog
         uses: sarisia/actions-readme-feed@v1
@@ -21,6 +22,7 @@ jobs:
           file: 'README.md'
           start_flag: "<!-- tech blog start -->"
           end_flag: "<!-- tech blog end -->"
+          locale: 'zh-CN'
       - name: life blog
         uses: sarisia/actions-readme-feed@v1
         id: life
@@ -29,6 +31,7 @@ jobs:
           file: 'README.md'
           start_flag: "<!-- life blog start -->"
           end_flag: "<!-- life blog end -->"
+          locale: 'zh-CN'
       - name: push to master
         if: ${{ steps.tech.outputs.changed == true || steps.life.outputs.changed == true }}
         id: commit
