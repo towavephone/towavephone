@@ -24,9 +24,10 @@ Hi, I'm towavephone, a front-end web developer from China.
 
 ## Life blog
 <!-- life blog start -->
-2020年-5月-10日：[夜跑生物岛](http://www.towavephone.com/2020/05/11/%E5%A4%9C%E8%B7%91%E7%94%9F%E7%89%A9%E5%B2%9B/index/)
-2020年-1月-17日：[周末两天见闻](http://www.towavephone.com/2020/01/18/%E5%91%A8%E6%9C%AB%E4%B8%A4%E5%A4%A9%E8%A7%81%E9%97%BB/index/)
-2020年-1月-5日：[与前同事聚餐小记](http://www.towavephone.com/2020/01/05/%E4%B8%8E%E5%89%8D%E5%90%8C%E4%BA%8B%E8%81%9A%E9%A4%90%E5%B0%8F%E8%AE%B0/index/)
-2019年-12月-29日：[元旦前回家小记](http://www.towavephone.com/2019/12/30/%E5%85%83%E6%97%A6%E5%89%8D%E5%9B%9E%E5%AE%B6%E5%B0%8F%E8%AE%B0/index/)
-2018年-4月-24日：[博客主题更新日志](http://www.towavephone.com/2018/04/24/update/)
+2020年5月10日：[夜跑生物岛](http://www.towavephone.com/2020/05/11/%E5%A4%9C%E8%B7%91%E7%94%9F%E7%89%A9%E5%B2%9B/index/)  
+2020年1月17日：[周末两天见闻](http://www.towavephone.com/2020/01/18/%E5%91%A8%E6%9C%AB%E4%B8%A4%E5%A4%A9%E8%A7%81%E9%97%BB/index/)  
+2020年1月5日：[与前同事聚餐小记](http://www.towavephone.com/2020/01/05/%E4%B8%8E%E5%89%8D%E5%90%8C%E4%BA%8B%E8%81%9A%E9%A4%90%E5%B0%8F%E8%AE%B0/index/)  
+2019年12月29日：[元旦前回家小记](http://www.towavephone.com/2019/12/30/%E5%85%83%E6%97%A6%E5%89%8D%E5%9B%9E%E5%AE%B6%E5%B0%8F%E8%AE%B0/index/)  
+2018年4月24日：[博客主题更新日志](http://www.towavephone.com/2018/04/24/update/)  
+2015年8月18日：[Hello World](http://www.towavephone.com/2015/08/19/helloworld/index/)  
 <!-- life blog end -->
