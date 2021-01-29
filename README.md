@@ -18,8 +18,6 @@ Hi, I'm towavephone, a front-end web developer from China.
 2021年1月13日：[插件机制、拦截器、中间件](https://blog.towavephone.com/plug-interceptor-middleware/)  
 2021年1月11日：[异步异常处理的演进](https://blog.towavephone.com/async-exception-throw-evolution/)  
 2021年1月10日：[手写async await的最简实现](https://blog.towavephone.com/async-await-simplest-implementation/)  
-2021年1月8日：[基于arcgis地图组件的搭建部署](https://blog.towavephone.com/arcgis-map-component-build-deploy/)  
-2021年1月5日：[Sequelize一对多查询解决方案](https://blog.towavephone.com/sequelize-one-to-many-find-solution/)  
 <!-- tech blog end -->
 
 ## Life blog
