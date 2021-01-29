@@ -15,8 +15,8 @@ jobs:
       - uses: sarisia/setup-icu@v1
       - uses: actions/checkout@v2
       - run: |
-          git config --global user.name github-actions
-          git config --global user.email github-actions@github.com
+          git config user.name github-actions
+          git config user.email github-actions@github.com
           git pull origin main
       - name: tech blog
         uses: sarisia/actions-readme-feed@v1
