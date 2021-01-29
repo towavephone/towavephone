@@ -1,6 +1,5 @@
-### Hi there 👋
-
-Hi, I'm towavephone, a frontEnd web developer from China.
+# :ramen: towavephone
+Hi, I'm towavephone, a front-end web developer from China.
 
 - 🌱 I’m currently learning Node.js
 - 📫 My technology blog is [here](https://blog.towavephone.com/)
@@ -9,16 +8,12 @@ Hi, I'm towavephone, a frontEnd web developer from China.
 
 [![Anurag's github stats](https://github-readme-stats-sarisia.vercel.app/api?username=towavephone&count_private=true&show_icons=true&bg_color=30,e55d87,5fc3e4&title_color=ffffff&icon_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
+# :memo: Recent Blog Posts
 
-Here are some ideas to get you started:
+## Tech blog
+<!-- tech blog start -->
+<!-- tech blog end -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Life blog
+<!-- life blog start -->
+<!-- life blog end -->
