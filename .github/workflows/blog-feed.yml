@@ -1,0 +1,37 @@
+name: 'blog feed ci'
+on:
+  workflow_dispatch:
+  push:
+  schedule:
+    - cron: '0 0 0 * * ? *'
+
+jobs:
+  readme:
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.feed.outputs.changed }}
+      items: ${{ steps.feed.outputs.items }}
+    steps:
+      - uses: actions/checkout@v2
+      - name: tech blog
+        uses: sarisia/actions-readme-feed@v1
+        id: tech
+        with:
+          url: 'https://blog.towavephone.com/rss.xml'
+          file: 'README.md'
+          start_flag: "<!-- tech blog start -->"
+          end_flag: "<!-- tech blog end -->"
+      - name: life blog
+        uses: sarisia/actions-readme-feed@v1
+        id: life
+        with:
+          url: 'https://www.towavephone.com/atom.xml'
+          file: 'README.md'
+          start_flag: "<!-- life blog start -->"
+          end_flag: "<!-- life blog end -->"
+      - name: push to master
+        if: ${{ steps.tech.outputs.changed == true || steps.life.outputs.changed == true }}
+        id: commit
+        uses: sarisia/actions-commit@master
+        with:
+          message: "docs: update feed"
