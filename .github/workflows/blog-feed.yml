@@ -20,6 +20,7 @@ jobs:
         with:
           url: 'https://blog.towavephone.com/rss.xml'
           file: 'README.md'
+          format: "${year}-${02month}-${02day}：[${title}](${url})"
           start_flag: "<!-- tech blog start -->"
           end_flag: "<!-- tech blog end -->"
           locale: 'zh-CN'
@@ -29,6 +30,7 @@ jobs:
         with:
           url: 'https://www.towavephone.com/atom.xml'
           file: 'README.md'
+          format: "${year}-${02month}-${02day}：[${title}](${url})"
           start_flag: "<!-- life blog start -->"
           end_flag: "<!-- life blog end -->"
           locale: 'zh-CN'
