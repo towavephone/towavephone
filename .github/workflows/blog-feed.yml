@@ -28,7 +28,7 @@ jobs:
           start_flag: "<!-- tech blog start -->"
           end_flag: "<!-- tech blog end -->"
           locale: 'zh-CN'
-          max_entry: 8
+          max_entry: 6
       - name: life blog
         uses: sarisia/actions-readme-feed@v1
         id: life
@@ -39,7 +39,7 @@ jobs:
           start_flag: "<!-- life blog start -->"
           end_flag: "<!-- life blog end -->"
           locale: 'zh-CN'
-          max_entry: 8
+          max_entry: 6
       - name: push to master
         if: ${{ steps.tech.outputs.changed == true || steps.life.outputs.changed == true }}
         id: commit
