@@ -12,12 +12,12 @@ Hi, I'm towavephone, a front-end web developer from China.
 
 ## Tech blog
 <!-- tech blog start -->
+2021年7月1日：[浏览器工作原理与实践](https://blog.towavephone.com/browser-working-principle-practice/)  
 2021年6月30日：[浏览器跨页面通信](https://blog.towavephone.com/browser-cross-page-message/)  
 2021年6月25日：[深入理解 Generators](https://blog.towavephone.com/deep-learn-generators/)  
 2021年6月24日：[详解 Event Loop（事件循环）机制](https://blog.towavephone.com/js-event-loop/)  
 2021年6月22日：[一文搞懂V8引擎的垃圾回收](https://blog.towavephone.com/v8-garbage-collection/)  
 2021年4月26日：[微前端框架qiankun源码笔记](https://blog.towavephone.com/qiankun-code-note/)  
-2021年4月23日：[基于arcgis地图组件的搭建部署](https://blog.towavephone.com/arcgis-map-component-build-deploy/)  
 <!-- tech blog end -->
 
 ## Life blog
