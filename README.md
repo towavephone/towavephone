@@ -12,12 +12,12 @@ Hi, I'm towavephone, a front-end web developer from China.
 
 ## Tech blog
 <!-- tech blog start -->
-2021年7月1日：[浏览器工作原理与实践](https://blog.towavephone.com/browser-working-principle-practice/)  
+2021年7月5日：[浏览器工作原理与实践——页面循环系统](https://blog.towavephone.com/browser-working-principle-cycle-system/)  
+2021年7月5日：[浏览器工作原理与实践——V8工作原理](https://blog.towavephone.com/browser-working-principle-v8/)  
+2021年7月1日：[浏览器工作原理与实践——宏观视角上的浏览器](https://blog.towavephone.com/browser-working-principle-macro-view/)  
 2021年6月30日：[浏览器跨页面通信](https://blog.towavephone.com/browser-cross-page-message/)  
 2021年6月25日：[深入理解 Generators](https://blog.towavephone.com/deep-learn-generators/)  
 2021年6月24日：[详解 Event Loop（事件循环）机制](https://blog.towavephone.com/js-event-loop/)  
-2021年6月22日：[一文搞懂V8引擎的垃圾回收](https://blog.towavephone.com/v8-garbage-collection/)  
-2021年4月26日：[微前端框架qiankun源码笔记](https://blog.towavephone.com/qiankun-code-note/)  
 <!-- tech blog end -->
 
 ## Life blog
