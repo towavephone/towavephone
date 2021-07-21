@@ -12,12 +12,12 @@ Hi, I'm towavephone, a front-end web developer from China.
 
 ## Tech blog
 <!-- tech blog start -->
+2021年7月20日：[前端性能优化手段](https://blog.towavephone.com/front-end-performance-optimization-2021/)  
 2021年7月20日：[浏览器工作原理](https://blog.towavephone.com/browser-working-principle/)  
 2021年7月16日：[深入理解浏览器的缓存机制](https://blog.towavephone.com/deep-learn-browser-cache/)  
 2021年7月15日：[浏览器工作原理与实践——浏览器中的网络](https://blog.towavephone.com/browser-working-principle-network/)  
 2021年7月7日：[浏览器工作原理与实践——浏览器中的页面](https://blog.towavephone.com/browser-working-principle-page/)  
 2021年7月5日：[浏览器工作原理与实践——页面循环系统](https://blog.towavephone.com/browser-working-principle-cycle-system/)  
-2021年7月5日：[浏览器工作原理与实践——V8工作原理](https://blog.towavephone.com/browser-working-principle-v8/)  
 <!-- tech blog end -->
 
 ## Life blog
