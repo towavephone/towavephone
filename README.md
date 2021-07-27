@@ -12,12 +12,12 @@ Hi, I'm towavephone, a front-end web developer from China.
 
 ## Tech blog
 <!-- tech blog start -->
+2021年7月26日：[深入理解 Babel](https://blog.towavephone.com/deep-learn-babel/)  
 2021年7月24日：[前端模块化详解](https://blog.towavephone.com/frontend-module-summary/)  
 2021年7月23日：[浏览器渲染合成层](https://blog.towavephone.com/browser-render-composite-layers/)  
 2021年7月23日：[前端性能优化指标 RAIL](https://blog.towavephone.com/performance-optimization-rail/)  
 2021年7月20日：[前端性能优化手段](https://blog.towavephone.com/front-end-performance-optimization-2021/)  
 2021年7月20日：[浏览器工作原理](https://blog.towavephone.com/browser-working-principle/)  
-2021年7月16日：[深入理解浏览器的缓存机制](https://blog.towavephone.com/deep-learn-browser-cache/)  
 <!-- tech blog end -->
 
 ## Life blog
