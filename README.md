@@ -12,12 +12,12 @@ Hi, I'm towavephone, a front-end web developer from China.
 
 ## Tech blog
 <!-- tech blog start -->
+20210729：[深入理解 Webpack 源码](https://blog.towavephone.com/deep-learn-webpack-source-code/)  
 20210726：[深入理解 Babel](https://blog.towavephone.com/deep-learn-babel/)  
 20210724：[前端模块化详解](https://blog.towavephone.com/frontend-module-summary/)  
 20210723：[浏览器渲染合成层](https://blog.towavephone.com/browser-render-composite-layers/)  
 20210723：[前端性能优化指标 RAIL](https://blog.towavephone.com/performance-optimization-rail/)  
 20210720：[前端性能优化手段](https://blog.towavephone.com/front-end-performance-optimization-2021/)  
-20210720：[浏览器工作原理](https://blog.towavephone.com/browser-working-principle/)  
 <!-- tech blog end -->
 
 ## Life blog
