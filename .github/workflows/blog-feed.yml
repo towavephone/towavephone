@@ -19,7 +19,7 @@ jobs:
           git config user.email github-actions@github.com
           git pull origin main
       - name: tech blog
-        uses: sarisia/actions-readme-feed@v1
+        uses: sarisia/actions-readme-feed@v1.6.2
         id: tech
         with:
           url: 'https://blog.towavephone.com/rss.xml'
@@ -30,7 +30,7 @@ jobs:
           locale: 'zh-CN'
           max_entry: 6
       - name: life blog
-        uses: sarisia/actions-readme-feed@v1
+        uses: sarisia/actions-readme-feed@v1.6.2
         id: life
         with:
           url: 'http://www.towavephone.com/atom.xml'
