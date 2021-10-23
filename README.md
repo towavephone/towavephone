@@ -12,12 +12,12 @@ Hi, I'm towavephone, a front-end web developer from China.
 
 ## Tech blog
 <!-- tech blog start -->
+20211022：[TypeScript 入门学习](https://blog.towavephone.com/typescript-introduce-learn/)  
 20210926：[JavaScript语言精髓与编程实践——语法](https://blog.towavephone.com/javascript-essence-practice-grammar/)  
 20210925：[人月神话读书笔记](https://blog.towavephone.com/man-moon-myth-notes/)  
 20210906：[WebGL 理论基础——基础概念](https://blog.towavephone.com/webgl-fundamental-base-concept/)  
 20210903：[WebGL 入门学习](https://blog.towavephone.com/webgl-practice-learn/)  
 20210901：[Webpack 深入学习](https://blog.towavephone.com/webpack-deep-learn/)  
-20210729：[深入理解 Webpack 源码](https://blog.towavephone.com/deep-learn-webpack-source-code/)  
 <!-- tech blog end -->
 
 ## Life blog
