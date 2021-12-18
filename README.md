@@ -22,10 +22,10 @@ Hi, I'm towavephone, a front-end web developer from China.
 
 ## Life blog
 <!-- life blog start -->
-20200511：[夜跑生物岛](https://www.towavephone.com/2020/05/11/%E5%A4%9C%E8%B7%91%E7%94%9F%E7%89%A9%E5%B2%9B/index/)  
-20200118：[周末两天见闻](https://www.towavephone.com/2020/01/18/%E5%91%A8%E6%9C%AB%E4%B8%A4%E5%A4%A9%E8%A7%81%E9%97%BB/index/)  
-20200105：[与前同事聚餐小记](https://www.towavephone.com/2020/01/05/%E4%B8%8E%E5%89%8D%E5%90%8C%E4%BA%8B%E8%81%9A%E9%A4%90%E5%B0%8F%E8%AE%B0/index/)  
-20191230：[元旦前回家小记](https://www.towavephone.com/2019/12/30/%E5%85%83%E6%97%A6%E5%89%8D%E5%9B%9E%E5%AE%B6%E5%B0%8F%E8%AE%B0/index/)  
+20200511：[夜跑生物岛](https://www.towavephone.com/2020/05/11/run-in-bio-island/)  
+20200118：[周末两天见闻](https://www.towavephone.com/2020/01/18/weekend-story/)  
+20200105：[与前同事聚餐小记](https://www.towavephone.com/2020/01/05/former-colleagues-dinner/)  
+20191230：[元旦前回家小记](https://www.towavephone.com/2019/12/30/new-year-day-go-home/)  
 20180424：[博客主题更新日志](https://www.towavephone.com/2018/04/24/update/)  
-20150819：[Hello World](https://www.towavephone.com/2015/08/19/helloworld/index/)  
+20150819：[Hello World](https://www.towavephone.com/2015/08/19/hello-world/)  
 <!-- life blog end -->
