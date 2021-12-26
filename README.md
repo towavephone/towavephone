@@ -22,10 +22,10 @@ Hi, I'm towavephone, a front-end web developer from China.
 
 ## Life blog
 <!-- life blog start -->
+20211225：[周末团建活动小记](https://www.towavephone.com/2021/12/25/weekend-company-tour/)  
 20200511：[夜跑生物岛](https://www.towavephone.com/2020/05/11/run-in-bio-island/)  
 20200118：[周末两天见闻](https://www.towavephone.com/2020/01/18/weekend-story/)  
 20200105：[与前同事聚餐小记](https://www.towavephone.com/2020/01/05/former-colleagues-dinner/)  
 20191230：[元旦前回家小记](https://www.towavephone.com/2019/12/30/new-year-day-go-home/)  
 20180424：[博客主题更新日志](https://www.towavephone.com/2018/04/24/update/)  
-20150819：[Hello World](https://www.towavephone.com/2015/08/19/hello-world/)  
 <!-- life blog end -->
