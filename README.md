@@ -12,12 +12,12 @@ Hi, I'm towavephone, a front-end web developer from China.
 
 ## Tech blog
 <!-- tech blog start -->
+20220418：[Python语法一览](https://blog.towavephone.com/python-syntax-overview/)  
 20220402：[Python入门学习](https://blog.towavephone.com/python-introduce-learn/)  
 20220331：[CSS新世界全新的布局方式](https://blog.towavephone.com/css-new-world-new-layout/)  
 20220213：[CSS新世界更强的视觉表现](https://blog.towavephone.com/css-new-world-stronger-visual-performance/)  
 20220119：[CSS新世界更细致的样式表现](https://blog.towavephone.com/css-new-world-detailed-style-performance/)  
 20211222：[CSS新世界从增强已有的CSS属性开始](https://blog.towavephone.com/css-new-world-enhance-existing-css/)  
-20211219：[CSS新世界概述及准备](https://blog.towavephone.com/css-new-world-overview-prepare/)  
 <!-- tech blog end -->
 
 ## Life blog
