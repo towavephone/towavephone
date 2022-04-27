@@ -1,7 +1,7 @@
 # :ramen: towavephone
-Hi, I'm towavephone, a front-end web developer from China.
+Hi, I'm towavephone, a full-stack developer from China.
 
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m good at React, Node.js, Python, CSS, WebGL, webpack, UI design and so on
 - 📫 My technology blog is [here](https://blog.towavephone.com/)
 - 📫 My life blog is [here](https://www.towavephone.com/)
 - 💬 Ask me about anything [here](https://github.com/towavephone/towavephone/issues)
