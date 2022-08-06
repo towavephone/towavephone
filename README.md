@@ -12,12 +12,12 @@ Hi, I'm towavephone, a full-stack developer from China.
 
 ## Tech blog
 <!-- tech blog start -->
+20220805：[WebGL 理论基础——二维](https://blog.towavephone.com/webgl-fundamental-2d/)  
 20220802：[Rust练手测试](https://blog.towavephone.com/rust-practice-test/)  
 20220727：[WebGL 理论基础——纹理](https://blog.towavephone.com/webgl-fundamental-textures/)  
 20220726：[CSS新世界全新的布局方式](https://blog.towavephone.com/css-new-world-new-layout/)  
 20220714：[Docker入门学习](https://blog.towavephone.com/docker-introduce-learning/)  
 20220621：[WebGL 理论基础——几何](https://blog.towavephone.com/webgl-fundamental-geometry/)  
-20220607：[WebGL 理论基础——光照](https://blog.towavephone.com/webgl-fundamental-light/)  
 <!-- tech blog end -->
 
 ## Life blog
