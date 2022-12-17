@@ -12,12 +12,12 @@ Hi, I'm towavephone, a full-stack developer from China.
 
 ## Tech blog
 <!-- tech blog start -->
-20221116：[Three.js练手测试](https://blog.towavephone.com/three-js-practice-test/)  
+20221216：[CRA 项目构建速度优化](https://blog.towavephone.com/cra-project-build-speed-optimize/)  
+20221216：[Three.js练手测试](https://blog.towavephone.com/three-js-practice-test/)  
+20221216：[国际官网技术难点攻关](https://blog.towavephone.com/international-official-website-technical-difficulties/)  
+20221216：[国际官网核心原理](https://blog.towavephone.com/international-official-website-core-principle/)  
 20221012：[编写高质量Python](https://blog.towavephone.com/writing-high-quality-python/)  
 20220926：[Python源码剖析](https://blog.towavephone.com/python-source-analysis/)  
-20220914：[WebGL 零基础入门学习](https://blog.towavephone.com/webgl-zero-based-practice-learn/)  
-20220905：[CSS新世界全新的布局方式](https://blog.towavephone.com/css-new-world-new-layout/)  
-20220826：[系统设计入门学习](https://blog.towavephone.com/system-design-practice-learn/)  
 <!-- tech blog end -->
 
 ## Life blog
