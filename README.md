@@ -6,7 +6,7 @@ Hi, I'm towavephone, a full-stack developer from China.
 - 📫 My life blog is [here](https://www.towavephone.com/)
 - 💬 Ask me about anything [here](https://github.com/towavephone/towavephone/issues)
 
-[![towavephone's github stats](https://github-readme-stats.vercel.app/api?username=towavephone)](https://github.com/anuraghazra/github-readme-stats)
+[![towavephone's github stats](https://github-readme-stats.zohan.tech/api?username=towavephone)](https://github.com/anuraghazra/github-readme-stats)
 
 # :memo: Recent Blog Posts
 
