@@ -12,12 +12,12 @@ Hi, I'm towavephone, a full-stack developer from China.
 
 ## Tech blog
 <!-- tech blog start -->
+2023年11月30日：[缓存报错重试机制探究](https://blog.towavephone.com/cache-error-retry-process/)  
+2023年11月28日：[记一次处理高德地图浏览器兼容性问题](https://blog.towavephone.com/amap-browser-compatibility/)  
 2023年11月28日：[博客 Gatsby 插件改造](https://blog.towavephone.com/gatsby-plugin-transformation/)  
 2023年10月2日：[Go 入门学习](https://blog.towavephone.com/go-introduce-learn/)  
 2023年9月14日：[系统设计深入学习](https://blog.towavephone.com/system-design-deep-learn/)  
 2023年9月14日：[分布式服务入门学习](https://blog.towavephone.com/distributed-services-practice-learn/)  
-2023年6月13日：[编写高质量Python](https://blog.towavephone.com/writing-high-quality-python/)  
-2023年5月15日：[Three.js练手测试](https://blog.towavephone.com/three-js-practice-test/)  
 <!-- tech blog end -->
 
 ## Life blog
