@@ -12,12 +12,12 @@ Hi, I'm towavephone, a full-stack developer from China.
 
 ## Tech blog
 <!-- tech blog start -->
+2024年5月15日：[前后端调试工具应用](https://blog.towavephone.com/frontend-backend-debug-tool/)  
+2024年5月15日：[Python 语法解析器实现复杂搜索](https://blog.towavephone.com/python-search-by-syntax/)  
 2024年3月21日：[Python深入学习](https://blog.towavephone.com/python-deep-learn/)  
 2024年2月20日：[命令行的艺术](https://blog.towavephone.com/the-art-of-command-line/)  
 2024年2月4日：[深入理解 Python 虚拟机](https://blog.towavephone.com/python-vm-deep-learn/)  
 2023年11月30日：[缓存报错重试机制探究](https://blog.towavephone.com/cache-error-retry-process/)  
-2023年11月30日：[Python 后端 oom 处理过程](https://blog.towavephone.com/python-backend-oom-process/)  
-2023年11月28日：[记一次处理高德地图浏览器兼容性问题](https://blog.towavephone.com/amap-browser-compatibility/)  
 <!-- tech blog end -->
 
 ## Life blog
