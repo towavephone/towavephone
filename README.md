@@ -12,12 +12,12 @@ Hi, I'm towavephone, a full-stack developer from China.
 
 ## Tech blog
 <!-- tech blog start -->
+2025年10月27日：[前端多平台页面适配](https://blog.towavephone.com/frontend-multi-platform-page-adaptation/)  
+2025年10月27日：[React 前端埋点选型](https://blog.towavephone.com/react-frontend-tracking-selection/)  
 2025年10月24日：[前端性能测试工具](https://blog.towavephone.com/frontend-performance-testing-tools/)  
 2025年10月23日：[数据库连接工具 web 版](https://blog.towavephone.com/database-connection-tool-web-based/)  
 2025年10月22日：[React 全局状态库选型](https://blog.towavephone.com/react-global-state-selection/)  
 2025年4月17日：[前后端调试工具应用](https://blog.towavephone.com/frontend-backend-debug-tool/)  
-2024年10月11日：[分布式服务入门学习](https://blog.towavephone.com/distributed-services-practice-learn/)  
-2024年5月15日：[Python 语法解析器实现复杂搜索](https://blog.towavephone.com/python-search-by-syntax/)  
 <!-- tech blog end -->
 
 ## Life blog
